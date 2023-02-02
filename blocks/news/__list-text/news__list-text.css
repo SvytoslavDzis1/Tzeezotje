@@ -1,0 +1,7 @@
+.news__list-text{
+    display: flex;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+    margin: 0;
+}

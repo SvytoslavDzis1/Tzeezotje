@@ -1,0 +1,6 @@
+.news{
+    max-width: 1169px;
+    margin: 0 auto 90px;
+    display: flex;
+    justify-content: space-between;
+}

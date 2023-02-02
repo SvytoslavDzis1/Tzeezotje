@@ -1,0 +1,13 @@
+.header__column{
+    color: #fff;
+    margin: 0 45px 0 0;
+}
+
+.header__column:last-child{
+    margin: 0;
+}
+
+.header__column:hover{
+    border-bottom: 1px solid #fff;
+    cursor: pointer;
+}

@@ -1,0 +1,4 @@
+.header__block-nav{
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  src: url('poppins_regular.woff') format('woff'),
+       url('poppins_regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  src: url('poppins_regular.woff') format('woff'),
+       url('poppins_regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  src: url('poppins_semibold.woff') format('woff'),
+       url('poppins_semibold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  src: url('poppins_bold.woff') format('woff'),
+       url('poppins_bold.woff2') format('woff2');
+}

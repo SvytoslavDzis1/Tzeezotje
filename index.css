@@ -1,0 +1,40 @@
+@import url(./vendor/normalize.css);
+@import url(./vendor/fonts/fonts.css);
+@import url(./blocks/root/root.css);
+
+/* Header */
+@import url(./blocks/header/header.css);
+@import url(./blocks/header/__block/header__block.css);
+@import url(./blocks/header/__block-nav/header__block-nav.css);
+@import url(./blocks/logo/logo.css);
+@import url(./blocks/header/__columns/header__columns.css);
+@import url(./blocks/header/__column/header__column.css);
+@import url(./blocks/header/__about/header__about.css);
+@import url(./blocks/header/__telefon/header__telefon.css);
+@import url(./blocks/header/__number/header__number.css);
+@import url(./blocks/header/__title-day/header__title-day.css);
+@import url(./blocks/header/__title/header__title.css);
+@import url(./blocks/header/__button/header__button.css);
+@import url(./blocks/header/__links/header__links.css);
+@import url(./blocks/header/__link/header__link.css);
+
+/* section news */
+@import url(./blocks/news/news.css);
+@import url(./blocks/news/__list/news__list.css);
+@import url(./blocks/news/__list-title/news__list-title.css);
+@import url(./blocks/news/__list-block/news__list-block.css);
+@import url(./blocks/news/__list-text/news__list-text.css);
+@import url(./blocks/news/__list-ellipse/news__list-ellipse.css);
+
+@import url(./blocks/news/__imgs/news__imgs.css);
+@import url(./blocks/news/__img-left/news__img-left.css);
+@import url(./blocks/news/__border/news__border.css);
+@import url(./blocks/news/__img-right/news__img-right.css);
+
+/* description */
+@import url(./blocks/review/review.css);
+@import url(./blocks/review/__block/review__block.css);
+@import url(./blocks/review/__block-img/review__block-img.css);
+@import url(./blocks/review/__block-title/review__block-title.css);
+@import url(./blocks/review/__block-text/review__block-text.css);
+@import url(./blocks/review/__block-subtitle/review__block-subtitle.css);

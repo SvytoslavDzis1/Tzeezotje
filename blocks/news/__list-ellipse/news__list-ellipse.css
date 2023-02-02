@@ -1,0 +1,8 @@
+.news__list-ellipse{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 5px;
+    height: 5px;
+    color: #D3B47F;
+}
