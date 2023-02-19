@@ -1,8 +1,13 @@
 .review__block-text{
     margin: 20px auto 0;
-    max-width: 780px;
     font-weight: 400;
     font-size: 16px;
     line-height: 40px;
     color: #fff;
+}
+
+@media screen and (max-width: 800px) {
+    .review__block-text{
+        line-height: 30px;
+    }
 }

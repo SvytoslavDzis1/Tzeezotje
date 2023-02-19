@@ -1,0 +1,10 @@
+.contact__blocks{
+    display: flex;
+    justify-content: space-between; 
+}
+
+@media screen and (max-width: 840px) {
+    .contact__blocks{
+        flex-direction: column;
+    }
+}

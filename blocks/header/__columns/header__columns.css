@@ -1,6 +1,13 @@
 .header__columns{
     display: flex;
     list-style: none;
-    margin: 16px 0 0 0;
+    margin: 0;
     padding: 0 29px 0 0;
+    align-items: center;
+}
+
+@media screen and (max-width: 770px) {
+    .header__columns{
+        display: none;
+    }
 }

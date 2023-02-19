@@ -1,6 +1,9 @@
 .header__number{
+    display: flex;
     font-weight: 400;
     font-size: 16px;
     line-height: 24px;
     color: #fff;
+    text-decoration: none;
+    align-items: center;
 }

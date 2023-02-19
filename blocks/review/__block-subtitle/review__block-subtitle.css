@@ -2,7 +2,19 @@
     margin: 40px 0 0 0;
     font-weight: 600;
     font-size: 24px;
-    line-height: 40px;
+    line-height: 36px;
     letter-spacing: 0.245em;
     color: #D3B47F;
+}
+
+@media screen and (max-width: 800px) {
+    .review__block-subtitle{
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 430px) {
+    .review__block-subtitle{
+        font-size: 16px;
+    }
 }

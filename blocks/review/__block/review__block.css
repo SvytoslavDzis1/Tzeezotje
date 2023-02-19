@@ -1,5 +1,12 @@
 .review__block{
-    margin: 0 auto;
-    max-width: 1123.62px;
+    max-width: 1074.6px;
     text-align: center;
+    margin: 0 auto;
+    position: relative;
+}
+
+@media screen and (max-width: 1130px) {
+    .review__block{
+        max-width: 95%;
+    }
 }

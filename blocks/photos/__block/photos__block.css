@@ -1,0 +1,19 @@
+.photos__block{
+    max-width: 1168px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto 50px auto;
+}
+
+@media screen and (max-width: 1240px) {
+    .photos__block{
+        max-width: 90%;
+    }
+}
+
+@media screen and (max-width: 490px) {
+    .photos__block{
+        flex-direction: column;
+        margin: 0 auto 20px auto;
+    }
+}

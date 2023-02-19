@@ -9,4 +9,10 @@
 
 .news__list-block:last-child{
     margin: 0 0 88px 0;
- }
+}
+
+@media screen and (max-width: 540px) {
+    .news__list-block:last-child{
+        margin: 0;
+    }
+}

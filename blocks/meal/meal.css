@@ -1,0 +1,12 @@
+.meal{
+    padding: 109px 0 80px 0;
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 1230px) {
+    .meal{
+        max-width: 90%;
+        padding: 50px 0 30px 0;
+    }
+}

@@ -1,0 +1,25 @@
+.review__button-prev{
+    transform: rotate(45deg);
+    border-bottom: 2px solid #fff;
+    border-left: 2px solid #fff;
+    width: 30px;
+    height: 30px;
+    border-radius: 0 0 0 10px;
+    transition: .3s ease-in-out;
+}
+
+.swiper-button-prev::after{
+    content: '';
+}
+
+.swiper-button-prev:hover{
+    border-bottom: 2px solid #D3B47F;
+    border-left: 2px solid #D3B47F;
+}
+
+@media screen and (max-width: 430px) {
+    .review__button-prev{
+        top: 10%;
+        left: 20%;
+    }
+}

@@ -1,0 +1,11 @@
+.button__form{
+    display: block;
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 660px) {
+    .button__form{
+        margin: 20px auto 0 auto;
+    }
+}
+

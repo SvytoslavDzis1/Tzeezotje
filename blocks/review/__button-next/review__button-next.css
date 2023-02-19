@@ -1,0 +1,26 @@
+.review__button-next{
+    transform: rotate(-135deg);
+    border-bottom: 2px solid #fff;
+    border-left: 2px solid #fff;
+    width: 30px;
+    height: 30px;
+    border-radius: 0 0 0 10px;
+    transition: .3s ease-in-out;
+}
+
+.swiper-button-next::after{
+    content: '';
+}
+
+.swiper-button-next:hover{
+    border-bottom: 2px solid #D3B47F;
+    border-left: 2px solid #D3B47F;
+}
+
+@media screen and (max-width: 430px) {
+    .review__button-next{
+        top: 10%;
+        right: 20%;
+    }
+}
+

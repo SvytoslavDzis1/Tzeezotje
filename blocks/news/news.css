@@ -4,3 +4,10 @@
     display: flex;
     justify-content: space-between;
 }
+
+@media screen and (max-width: 1240px) {
+    .news{
+      max-width: 90%;
+      flex-direction: column;
+    }
+}

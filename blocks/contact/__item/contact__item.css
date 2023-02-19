@@ -1,0 +1,8 @@
+.contact__item{
+    margin-bottom: 40px;
+    display: flex;
+}
+
+.contact__item:last-child{
+    margin: 0;
+}

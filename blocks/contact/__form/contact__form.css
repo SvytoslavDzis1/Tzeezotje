@@ -1,0 +1,14 @@
+.contact__form{
+    max-width: 670px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+}
+
+@media screen and (max-width: 660px) {
+    .contact__form{
+        flex-wrap: nowrap;
+        flex-direction: column;
+        text-align: center;
+    }
+}

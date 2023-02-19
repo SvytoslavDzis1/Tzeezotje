@@ -2,3 +2,15 @@
     position: relative;
     max-width: 668px;   
 }
+
+@media screen and (max-width: 1240px) {
+    .news__imgs{
+      margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 930px) {
+    .news__imgs{
+      display: none;
+    }
+}

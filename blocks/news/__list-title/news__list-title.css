@@ -4,3 +4,10 @@
     line-height: 32px;
     margin: 0 0 10px 0;
 }
+
+@media screen and (max-width: 463px) {
+    .news__list-title{
+        font-size: 21px;
+        line-height: 20px;
+    }
+}

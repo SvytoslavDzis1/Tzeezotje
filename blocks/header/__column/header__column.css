@@ -1,6 +1,6 @@
 .header__column{
-    color: #fff;
     margin: 0 45px 0 0;
+
 }
 
 .header__column:last-child{
@@ -8,6 +8,6 @@
 }
 
 .header__column:hover{
-    border-bottom: 1px solid #fff;
+    border-bottom: 3px solid #fff;
     cursor: pointer;
 }

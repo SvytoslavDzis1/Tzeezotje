@@ -5,3 +5,24 @@
     font-size: 24px;
     color: #fff;
 }
+
+@media screen and (max-width: 670px) {
+    .header__title-day{
+        text-align: center;
+        margin: 54px 0 24px 0;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    .header__title{
+        line-height: 26px;
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 525px) {
+    .header__title{
+        line-height: 22px;
+        font-size: 12px;
+    }
+}

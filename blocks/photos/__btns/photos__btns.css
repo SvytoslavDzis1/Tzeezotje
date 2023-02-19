@@ -1,0 +1,18 @@
+.photos__btns{
+    min-width: 123.61px;
+    position: relative;
+    margin: 0 23.19px 0 0;
+}
+
+@media screen and (max-width: 710px) {
+    .photos__btns{
+        margin: 0;
+    }
+}
+
+@media screen and (max-width: 490px) {
+    .photos__btns{
+        height: 100px;
+    }
+}
+

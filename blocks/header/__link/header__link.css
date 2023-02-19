@@ -22,5 +22,5 @@
 
 .header__link:hover{
     border: 1px solid #ff0000;
-    opacity: .5;
+    background-color: #ccc;
 }

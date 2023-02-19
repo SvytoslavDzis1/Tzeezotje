@@ -1,0 +1,9 @@
+.contact__form-block{
+    max-width: 670px;
+}
+
+@media screen and (max-width: 840px) {
+    .contact__form-block{
+        margin: 30px 0 0 0;
+    }
+}

@@ -1,0 +1,9 @@
+.photos__button-next{
+    transform: rotate(-135deg);
+    border-bottom: 2px solid #fff;
+    border-left: 2px solid #fff;
+    width: 30px;
+    height: 30px;
+    border-radius: 0 0 0 10px;
+    transition: .3s ease-in-out;
+}

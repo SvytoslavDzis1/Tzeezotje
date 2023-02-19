@@ -2,3 +2,9 @@
     max-width: 469px;
     margin: 0 34px 0 0;
 }
+
+@media screen and (max-width: 1240px) {
+    .news__list{
+      margin: 0 auto;
+    }
+}

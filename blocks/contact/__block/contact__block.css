@@ -1,0 +1,9 @@
+.contact__block{
+    flex: 50%;
+}
+
+@media screen and (max-width: 660px) {
+    .contact__block{
+        margin: 0 0 20px 0;
+    }
+}

@@ -5,3 +5,10 @@
     line-height: 32px;
     margin: 0;
 }
+
+@media screen and (max-width: 930px) {
+    .news__list-text{
+        font-size: 16px;
+        line-height: 25px;
+    }
+}

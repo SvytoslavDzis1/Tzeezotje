@@ -1,0 +1,10 @@
+.review__swiper-block{
+    max-width: 785px;
+    display: flex;
+}
+
+@media screen and (max-width: 900px) {
+    .review__swiper-block{
+      max-width: 80%;
+    }
+}

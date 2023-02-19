@@ -3,6 +3,12 @@
     font-weight: 600;
     font-size: 36px;
     line-height: 40px;
-    max-width: 785px;
     color: #D3B47F;
+}
+
+@media screen and (max-width: 800px) {
+    .review__block-title{
+        font-size: 25px;
+        line-height: 30px;
+    }
 }
